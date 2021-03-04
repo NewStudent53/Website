@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather",Helvetica,Arial,sans-serif;
+
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 0;
+  font-family: 'DotGothic16', sans-serif;
+}
+
+h2{
+  font-family: 'DotGothic16', sans-serif;
+}
+
+h3{
+  font-family: 'DotGothic16', sans-serif;
+}
+
+.top-container {
+  position:relative;
+  background-color: #0CB7F2;
+  padding-top: 200px;
+}
+
+.middle-container{
+}
+
+.bottom-container{
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  top: 50px;;
+  position: absolute;
+  right: 40px;
+}
+
+.pro{
+  text-decoration: underline;
+}
